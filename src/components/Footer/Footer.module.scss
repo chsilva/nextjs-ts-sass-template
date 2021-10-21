@@ -1,0 +1,10 @@
+@import 'styles/functions';
+
+.footer {
+  display: grid;
+  place-items: center;
+
+  padding: spacing(lg);
+
+  background: color(blue, 400);
+}

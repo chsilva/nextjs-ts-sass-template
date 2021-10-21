@@ -1,0 +1,10 @@
+@import 'styles/functions';
+
+.header {
+  display: grid;
+  place-items: center;
+
+  padding: spacing(lg);
+
+  background: color(cyan, 400);
+}
